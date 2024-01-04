@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 cybervisionis/Fabmedical is built on the following main stack:
+
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
@@ -20,11 +21,13 @@ cybervisionis/Fabmedical is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 cybervisionis/Fabmedical is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
@@ -43,14 +46,15 @@ cybervisionis/Fabmedical is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [cybervisionis/Fabmedical](https://github.com/cybervisionis/Fabmedical)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|49<br/>Tools used|11/09/23 <br/>Report generated|
+|50<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -240,9 +244,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (29)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (30)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (29)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (30)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -262,6 +266,7 @@ Full tech stack [here](/techstack.md)
 |[@types/node](https://www.npmjs.com/@types/node)|v16.11.11|08/24/22|cybervisionis |MIT|N/A|
 |[async](https://www.npmjs.com/async)|v2.6.3|08/24/22|cybervisionis |MIT|[CVE-2021-43138](https://github.com/advisories/GHSA-fwr7-v2mv-hh25) (High)|
 |[body-parser](https://www.npmjs.com/body-parser)|v1.19.0|08/24/22|cybervisionis |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|08/24/22|cybervisionis |MIT|N/A|
 |[codelyzer](https://www.npmjs.com/codelyzer)|v5.2.2|08/24/22|cybervisionis |MIT|N/A|
 |[express](https://www.npmjs.com/express)|v4.17.1|08/24/22|cybervisionis |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
 |[handlebars](https://www.npmjs.com/handlebars)|v4.7.7|08/24/22|cybervisionis |MIT|N/A|
@@ -279,4 +284,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
